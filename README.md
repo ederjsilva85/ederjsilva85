@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on **network engineering and cloud infrastructure projects** (on-premises, AWS, Azure).  
+- 🌱 I’m currently learning **automation with Ansible, Terraform, and Python**.  
+- 👯 I’m looking to collaborate on **open-source projects related to networking, cloud, and automation**.  
+- 🤔 I’m looking for help with **best practices in multi-cloud and infrastructure as code (IaC)**.  
+- 💬 Ask me about **Cisco networking, firewalls, AWS, Azure, and automation tools**.  
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/eder-silva-b5141015//)** | **[Email](mailto:eder_jsos@hotmail.com)**  
+- 😄 Pronouns: He/Him  
+- ✨ AI tools like **GitHub Copilot** and **ChatGPT** have been helping me save time and be more productive — which means I can spend more quality time with my family ❤️.  
+- ⚡ Outside of tech, I enjoy playing **footvolley** and **guitar**. 🎸🏐  
+
 <!--
 **ederjsilva85/ederjsilva85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
