@@ -10,6 +10,13 @@
 - ✨ AI tools like **GitHub Copilot** and **ChatGPT** have been helping me save time and be more productive — which means I can spend more quality time with my family ❤️.  
 - ⚡ Outside of tech, I enjoy playing **footvolley** and **guitar**. 🎸🏐  
 
+<img width="128" height="128" alt="cisco-icon" src="https://github.com/user-attachments/assets/5ce25057-aafa-4eaf-9d1b-df5a1dffb7f4" />
+
+<img width="128" height="128" alt="Microsoft_Azure svg" src="https://github.com/user-attachments/assets/807bf288-3268-4f0f-b300-12865e702d6f" />
+
+<img width="128" height="128" alt="Amazon_Web_Services_Logo svg" src="https://github.com/user-attachments/assets/bd1a672c-324f-45ae-8e6c-09a29409c450" />
+
+
 <!--
 **ederjsilva85/ederjsilva85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
