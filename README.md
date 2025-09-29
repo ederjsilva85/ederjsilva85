@@ -12,7 +12,7 @@
 
 <img width="64" height="64" alt="cisco-icon" src="https://github.com/user-attachments/assets/5ce25057-aafa-4eaf-9d1b-df5a1dffb7f4" />
 
-<img width="64" height="64" alt="Microsoft_Azure svg" src="https://github.com/user-attachments/assets/807bf288-3268-4f0f-b300-12865e702d6f" />
+<img width="60" height="60" alt="Microsoft_Azure svg" src="https://github.com/user-attachments/assets/807bf288-3268-4f0f-b300-12865e702d6f" />
 
 <img width="64" height="64" alt="Amazon_Web_Services_Logo svg" src="https://github.com/user-attachments/assets/bd1a672c-324f-45ae-8e6c-09a29409c450" />
 
