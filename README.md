@@ -18,14 +18,11 @@
 
 <img width="64" height="64" alt="Fortinet-logomark-rgb-red (2)" src="https://github.com/user-attachments/assets/9b0ce870-a83d-43c0-a520-7211a133d9f7" />
 
-<img width="52" height="52" alt="c_firewall_blue" src="https://github.com/user-attachments/assets/eb45a99f-ff74-439a-9fa0-454863a4898a" />
-
 <img width="52" height="52" alt="c_router_blue" src="https://github.com/user-attachments/assets/a93897b0-6dc9-4339-b1b3-c3f26836b72c" />
 
 <img width="52" height="52" alt="c_switch_blue" src="https://github.com/user-attachments/assets/5f23f35c-65fe-4eae-95da-1d43c524e77e" />
 
-
-
+<img width="52" height="52" alt="Firewall" src="https://github.com/user-attachments/assets/a592d526-267f-4814-8a97-b6c29609325e" />
 
 
 <!--
